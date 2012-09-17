@@ -1,0 +1,1 @@
+This is a shaded version of all the need libraries for atlassian-extras.
